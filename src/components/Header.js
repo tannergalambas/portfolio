@@ -11,24 +11,16 @@ import { Box, HStack, Link, Text } from "@chakra-ui/react";
 
 const socials = [
   {
-    icon: faEnvelope,
-    url: "mailto:tanner.galambas@gmail.com",
+    icon: faLinkedin,
+    url: "https://www.linkedin.com/in/tanner-galambas/",
   },
   {
     icon: faGithub,
     url: "https://github.com/tannergalambas",
   },
   {
-    icon: faLinkedin,
-    url: "https://www.linkedin.com/in/tanner-galambas/",
-  },
-  {
-    icon: faMedium,
-    url: "https://medium.com/@tannergalambas", // placeholder — update once created
-  },
-  {
-    icon: faStackOverflow,
-    url: "https://stackoverflow.com/users/your-id", // placeholder — update once created
+    icon: faEnvelope,
+    url: "mailto:tanner.galambas@gmail.com",
   },
 ];
 
